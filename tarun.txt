@@ -1,0 +1,4 @@
+ Big Data
+Big data refers to the large amounts of data produced by various programs in a very short duration of time. It is quite cumbersome to store such huge and voluminous amounts of data in company-run data centers. Also, gaining insights from this data becomes a tedious task and takes a lot of time to run and provide results, therefore cloud is the best option. All the data can be pushed onto the cloud without the need for physical storage devices that are to be managed and secured. Also, some popular public clouds provide comprehensive big data platforms to turn data into actionable insights.
+
+2. DevOps
